@@ -1,0 +1,11 @@
+{
+    "name": "vendic/magento-coding-standard",
+    "description": "Modified Magento 2 coding standard",
+    "type": "phpcodesniffer-standard",
+    "authors": [
+        {
+            "name": "Tjitse Efdé",
+            "email": "tjitse@vendic.nl"
+        }
+    ]
+}
