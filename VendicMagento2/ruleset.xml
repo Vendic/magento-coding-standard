@@ -9,5 +9,6 @@
         <exclude name="Magento2.Annotation.MethodAnnotationStructure.MethodAnnotation"/>
         <exclude name="Magento2.Annotation.MethodArguments.ParamMissing"/>
         <exclude name="Magento2.Annotation.MethodArguments.MethodArguments"/>
+        <exclude name="Magento2.Annotation.MethodAnnotationStructure.NoCommentBlock" />
     </rule>
 </ruleset>
